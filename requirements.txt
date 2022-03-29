@@ -10,7 +10,7 @@ idna==2.0
 ipaddress==1.0.16
 lockfile==0.12.2
 ndg-httpsclient==0.4.0
-paramiko==1.16.0
+paramiko==2.10.1
 pyasn1==0.1.9
 pycrypto==2.6.1
 pygobject==3.20.0
